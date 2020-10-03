@@ -5,7 +5,4 @@ theme:
   palette:
     primary: indigo
 
-plugins:
-  - git-revision-date
-
 edit_uri: https://github.com/gubareve/sample-docs/edit/master/docs/
