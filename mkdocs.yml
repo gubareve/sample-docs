@@ -5,4 +5,10 @@ theme:
   palette:
     primary: indigo
 
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed
 edit_uri: https://github.com/gubareve/sample-docs/edit/main/docs/
