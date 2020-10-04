@@ -11,4 +11,5 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.inlinehilite
   - pymdownx.tabbed
+  - footnotes
 edit_uri: https://github.com/gubareve/sample-docs/edit/main/docs/
